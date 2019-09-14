@@ -1,7 +1,6 @@
-pachong.pyÖĞ
-×îºómainº¯ÊıÖĞPicturesµÄfile_nameÊôĞÔ
-¼ÇµÃ¸Ä³ÉÄãÏë´æ·ÅÅÀÈ¡µÄÑéÖ¤ÂëÍ¼Æ¬µÄÄ¿±êÄ¿Â¼
+pachong.pyä¸­
+æœ€åmainå‡½æ•°ä¸­Picturesçš„file_nameå±æ€§
+è®°å¾—æ”¹æˆä½ æƒ³å­˜æ”¾çˆ¬å–çš„éªŒè¯ç å›¾ç‰‡çš„ç›®æ ‡ç›®å½•
 
-Ö÷Ìâ³ÌĞòÎÄ¼ş¼ĞÖĞREADME.md¼ÇµÃ¿´
-È»ºó°Ñgenerated_captcha_images.rar
-½âÑ¹µ½Ô­Ä¿Â¼ºóÉ¾ÁË Ã»ÓĞ»áÔ±ÍøÅÌ²»ÈÃÉÏ´«
+ä¸»é¢˜ç¨‹åºæ–‡ä»¶å¤¹ä¸­README.mdè®°å¾—çœ‹
+ç„¶åæŠŠgenerated_captcha_images.rar
